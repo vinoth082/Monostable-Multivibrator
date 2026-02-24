@@ -11,6 +11,8 @@ To design and simulate a Monostable Multivibrator using NE555 in Proteus Design 
 •	CRO / Oscilloscope
 •	Connecting wires
 ## Circuit Diagram
+<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/16893c3c-a97f-4746-a69e-50921c6680d3" />
+
 Pin Connections:
 •	Pin 1 → Ground
 •	Pin 2 → Trigger (Connected to push button)
@@ -44,7 +46,12 @@ The NE555 operating in monostable mode acts as a one-shot pulse generator. It ha
 7.	Measure pulse width.
 ## Tabulation
 S.No	        R (kΩ)	          C (µF)	        Theoretical Pulse Width	            Practical Pulse Width
+
+<img width="1025" height="285" alt="image" src="https://github.com/user-attachments/assets/29fc870c-e52a-44cb-af6b-b42d4e572095" />
+
 ## Waveform
+<img width="1041" height="657" alt="image" src="https://github.com/user-attachments/assets/da379f34-f187-4d94-bd46-d6c25d8ca1fb" />
+
 •	Trigger → Short negative pulse
 •	Output → Single positive pulse
 •	Capacitor voltage → Exponential charging waveform
@@ -59,8 +66,16 @@ The practical value closely matches the theoretical value.
 •	Used in timers, delay circuits, and pulse generation applications.
 ## Viva Questions
 1.	What is a monostable multivibrator?
-2.	Write the pulse width formula.
-3.	What is the stable state of monostable?
-4.	Why is it called “one-shot”?
-5.	What happens if capacitor value increases?
+<img width="985" height="115" alt="image" src="https://github.com/user-attachments/assets/82f0d8d4-3279-4456-a342-5a231adfe34e" />
 
+2.	Write the pulse width formula.
+<img width="781" height="272" alt="image" src="https://github.com/user-attachments/assets/bea70a4f-bb36-47c6-afc8-118a1b8010a0" />
+
+3.	What is the stable state of monostable?
+<img width="1145" height="92" alt="image" src="https://github.com/user-attachments/assets/df356dc8-0241-4b66-83ee-e29ef0e70d18" />
+
+4.	Why is it called “one-shot”?
+<img width="930" height="92" alt="image" src="https://github.com/user-attachments/assets/d536517b-3bcb-4d74-813a-47dbbb2afcf2" />
+
+5.	What happens if capacitor value increases?
+<img width="743" height="137" alt="image" src="https://github.com/user-attachments/assets/5904109a-cd99-4f53-a165-e2e41e870031" />
